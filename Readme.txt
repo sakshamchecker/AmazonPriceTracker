@@ -8,4 +8,4 @@ AMAZON Price Tracker - by Saksham Checker - linktr.ee/20_anonymous_11
 5. Press the Button according the requirements.
 AddToNew = Will Delete the old URLs and add a new one.
 AppemdExisting = WIll Add the New URL at the end of the existing file.
-
+(In the Tracker.pyw file, in line 26 and 30, add your own Email address)
